@@ -22,18 +22,49 @@ I don't install Slack on my phone unless it's a requirement for the team/company
 * If you need something sooner, or it's been ~24hr since you last requested my review (passively or actively), please DM me! I can't prioritize if I don't know something's a priority (and sometimes I just forget things).
 * I use the [conventional comments](https://conventionalcomments.org/) style as a guideline for how I format my comments.
 
+## Meetings
+
+TODO
+
 # Development
 
-choosing tools
-monitoring & observability (you don't know it's working if you can't observe it)
+## Programming
+
+As a default, I like to go low-meetings and heads-down in order to get things done.
+
+### Pairing
+
+I love working in a culture where my colleagues and I can reach out to each other for ad-hoc questions and pairing sessions. I find this to be a huge productivity boost, a help in knowledge sharing, and it helps keep me feeling connected to my coworkers while working remotely. (This does require trusting your coworkers to say no when they're busy, and to feel comfortable deferring/referring out people when you're heads-down.)
+
+I like doing classic driver/navigator pairing when appropriate, though sometimes just walking someone through the code or a concept is a little more effective for the problem at hand.
+
+## Planning
+
+TODO
+
+## Choosing tools
+
+Like any engineer of sufficient tenure, I've seen plenty of:
+* complex tools chosen when a simple one would suffice
+* simple tools chosen when a complex one was needed
+* builds when we should've bought
+* buys when we should've built
+
+I haven't held the checkbook or been in the lead architect's seat, so I can't criticize here, only learn from what I've seen and try to minimize my future regrets.
+
+Generally speaking, I don't believe that there are good or bad* tools - there are right and wrongs problem to use them on.
+
+*ok, _some_ tools are bad, but those are outliers.
+
+## Monitoring and observability
+
+Check out my observability doc for a lot of pontificating on monitoring/observability.
 
 # Values
 
-These are values that I take into all areas in my life, but especially my work.
+I take these values into all areas in my life, especially my work.
 
 ## Trust
-
-I don't need to give you a definition of trust - I'll tell you the concrete reasons that it's the top of my list when working with people.
 
 Everything is smoother, faster, and feels better when people trust each other. You spend less time talking, crafting words, explaining, hand-wringing, when people (yourself included):
 - assume good intent
@@ -47,13 +78,18 @@ Trust is slow to grow and quick to erode. In other words, it's expensive. I'd ra
 
 Conversely, if my trust is broken, I simply have to spend a little more time on that person or system (emotionally, strategically) than I would with one that I have more trust in.
 
-## Hope
-
 ## Do the right thing
+
+* The things I make should improve people's lives.
+* I should help and uplift the people around me.
+
+Everything follows from that.
 
 ## Pace yourself
 
-## People matter the most
+I've done crunch work for months on end over and over and burned out again and again. I've done the same thing in my personal life - ramped up a workout plan too fast and injured myself, went too deep on a project and lost the plot, I could go on. It's not sustainable. Occasional crunch is unavoidable but doing it as a way of life isn't.
+
+I work hard when I'm working and unplug when I'm not. I am only ever rewarded for respecting my body and my mind's need for rest.
 
 ## It should be fun
 
