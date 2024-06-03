@@ -24,19 +24,34 @@ I don't install Slack on my phone unless it's a requirement for the team/company
 
 ## Meetings
 
-TODO
+As an IC, I've noticed that I'm more productive the fewer scheduled meetings I have. More heads-down time and less randomization means I can spend more time sinking into a problem and being truly effective, or helping out my colleagues when I'm not as deep into it.
+
+Having as many no-meeting days in a week as possible is the best thing I've experienced for productivity and happiness as a dev.
+
+### Standups
+
+I'm flexible and will do any kind of standup the team finds most valuable.
+
+In my experience, most high-cadence standups start as people summarizing their JIRA tickets for the day and end as a dumping-ground meeting for things that the participants didn't want to bring up via Slack for various reasons. Most things standup _should_ be for have other channels:
+* raising blockers: this should be done ASAP instead of waiting for standup
+* progress on work: look at the ticket tracker, ask questions if unclear, improve the process if frequently unclear
+* socializing greater themes and workstreams: good for a non-daily standup, synchronous or asynchronous
+
+For this reason, I've found low-cadence, short-update standups to work well, particularly asynchronously. I also think a synchronous one works if the intent is to get the team together to just talk a bit.
+
+Just because I haven't experienced what feels like a valuable daily standup doesn't mean it doesn't exist.
 
 # Development
 
 ## Programming
 
-As a default, I like to go low-meetings and heads-down in order to get things done.
+As a default, I like to go low-meetings and heads-down in order to get things done. When heads-down, I usually defer Slack messages until my focus is already broken so that I can maximize what I'm working on.
 
 ### Pairing
 
 I love working in a culture where my colleagues and I can reach out to each other for ad-hoc questions and pairing sessions. I find this to be a huge productivity boost, a help in knowledge sharing, and it helps keep me feeling connected to my coworkers while working remotely. (This does require trusting your coworkers to say no when they're busy, and to feel comfortable deferring/referring out people when you're heads-down.)
 
-I like doing classic driver/navigator pairing when appropriate, though sometimes just walking someone through the code or a concept is a little more effective for the problem at hand.
+I like doing classic driver/navigator pairing when appropriate, though sometimes just walking through the code or a concept is a little more effective for the problem at hand.
 
 ## Planning
 
