@@ -55,7 +55,11 @@ I like doing classic driver/navigator pairing when appropriate, though sometimes
 
 ## Planning
 
-TODO
+The planning process deserves its own doc, but to put it as tersely as possible, planning should:
+* Take time/care proportional to the complexity of the project
+* Take input from as many people as is helpful, but be the ultimate responsibility and decision of the lead
+  * This is to stop from constant, long-running consensus-building that stalls projects. GitLab has a take on [RACI charts](https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example) that calls out ["directly-responsible individuals"](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) that I constantly reference.
+* Is a continual tradeoff between scope, time, and resources
 
 ## Choosing tools
 
