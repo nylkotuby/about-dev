@@ -1,6 +1,4 @@
-Some articles I liked and what I took away from them.
-
-Also some articles I find myself repeatedly looking up to share w/others because they describe common principles I follow or use. (Usually impressed upon me by the great dev team at Upserve.)
+I find myself frequently looking these articles up to share with others. They (or the principles they describe) have been very influential to me, so I like having them in one place to be able to easily reference. Also including some notes about what I liked or took away from the reading.
 
 # General Development
 
