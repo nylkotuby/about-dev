@@ -1,4 +1,9 @@
-Tools I like to use, communication style, expectations I have for myself, etc.
+A bit about how I show up at work.
+
+Table of Contents:
+- Communication
+- Development
+- Values
 
 # Communication
 
@@ -14,12 +19,12 @@ I like to communicate in public group channels as much as possible. This way:
 * people who you often wouldn't expect have an opportunity to join the conversation and provide valuable context/perspective
 * it acts as a form of medium-term documentation
 
-I don't install Slack on my phone unless it's a requirement for the team/company/duration of on-call shift. Because of that, feel free to message or @ me whenever, and I'll get to it when I'm next available!
+I try not to install Slack on my phone unless it's a requirement for the team/company/duration of on-call shift. Because of that, feel free to message or @ me whenever, and I'll get to it when I'm next available!
 
 ## PR Review
 
-* I do it proactively when I come up for air between tasks, or beginning-of-day when I'm fresh.
-* If you need something sooner, or it's been ~24hr since you last requested my review (passively or actively), please DM me! I can't prioritize if I don't know something's a priority (and sometimes I just forget things).
+* I do review proactively when I come up for air between tasks, or beginning-of-day when I'm fresh.
+* If you need something sooner, or it's been ~24hr since you last requested my review (passively or actively), please DM me! I can't prioritize if I don't know something's a priority (and sometimes other things just come up).
 * I use the [conventional comments](https://conventionalcomments.org/) style as a guideline for how I format my comments.
 
 ## Meetings
@@ -32,26 +37,28 @@ Having as many no-meeting days in a week as possible is the best thing I've expe
 
 I'm flexible and will do any kind of standup the team finds most valuable.
 
-In my experience, most high-cadence standups start as people summarizing their JIRA tickets for the day and end as a dumping-ground meeting for things that the participants didn't want to bring up via Slack for various reasons. Most things standup _should_ be for have other channels:
+Given the choice, my preference is low-cadence, short-update standups, particularly asynchronous ones. I also think synchronous standups are great if part of the intent is to get the team together to simply talk a bit.
+
+In my experience, it takes a lot of intention from the team to retain value from high-cadence standups. It's easy for them to be a place for people to summarize their JIRA tickets for the day, or worse, become a dumping-ground meeting for things that the participants didn't want to bring up via Slack because of other organizational dysfunction.
+
+Most things that often end up in standup can or should be addressed via other channels, in my opinion:
 * raising blockers: this should be done ASAP instead of waiting for standup
-* progress on work: look at the ticket tracker, ask questions if unclear, improve the process if frequently unclear
-* socializing greater themes and workstreams: good for a non-daily standup, synchronous or asynchronous
+* progress on work: stakeholders should look at the ticket tracker, ask questions if unclear, and improve the process if frequently unclear
+* socializing greater themes and workstreams: better suited for a non-daily standup, synchronous or asynchronous
 
-For this reason, I've found low-cadence, short-update standups to work well, particularly asynchronously. I also think a synchronous one works if the intent is to get the team together to just talk a bit.
-
-Just because I haven't experienced what feels like a valuable daily standup doesn't mean it doesn't exist.
+I'm always eager to participate in whatever form of standup my team feels is most valuable, and am generally invested in improving the process alongside my team.
 
 # Development
 
 ## Programming
 
-As a default, I like to go low-meetings and heads-down in order to get things done. When heads-down, I usually defer Slack messages until my focus is already broken so that I can maximize what I'm working on.
+As a default, I like to go low-meetings and heads-down in order to get things done. When heads-down, I usually defer Slack messages until my focus is already broken so that I can maximize progress on what I'm working on.
 
 ### Pairing
 
 I love working in a culture where my colleagues and I can reach out to each other for ad-hoc questions and pairing sessions. I find this to be a huge productivity boost, a help in knowledge sharing, and it helps keep me feeling connected to my coworkers while working remotely. (This does require trusting your coworkers to say no when they're busy, and to feel comfortable deferring/referring out people when you're heads-down.)
 
-I like doing classic driver/navigator pairing when appropriate, though sometimes just walking through the code or a concept is a little more effective for the problem at hand.
+I like doing classic driver/navigator pairing when appropriate, though sometimes just walking through the code or a concept is a little more effective depending on the problem at hand.
 
 ## Planning
 
@@ -60,6 +67,8 @@ The planning process deserves its own doc, but to put it as tersely as possible,
 * Take input from as many people as is helpful, but be the ultimate responsibility and decision of the lead
   * This is to stop from constant, long-running consensus-building that stalls projects. GitLab has a take on [RACI charts](https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example) that calls out ["directly-responsible individuals"](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) that I constantly reference.
 * Is a continual tradeoff between scope, time, and resources
+
+When planning larger, complex projects, my goal is that I achieve enough clarity and completeness to be able to hand the project off to someone else as easily as I could complete it myself.
 
 ## Choosing tools
 
