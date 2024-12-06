@@ -8,7 +8,7 @@ I find myself frequently looking these articles up to share with others. They (o
 ## [x](https://www2.ccs.neu.edu/research/demeter/demeter-method/LawOfDemeter/general-formulation.html) Law of Demeter
 - Good guideline for maintaining low coupling between components. Generally: methods should keep an interface specific to their needs and not pull in entire objects that they then have to deconstruct. They "ask" for what they need via their interface and callers give them the pieces that are required.
 
-## [X](https://conventionalcomments.org/) Convential Comments
+## [x](https://conventionalcomments.org/) Convential Comments
 - Framework for tagging comments for clarity. The quality of my PR review immediately increased when I started using these tags.
 - I realized recently that stopping to think about what tag I want to use is half the battle. Why should the PR author have to decipher my intent for me?
 
